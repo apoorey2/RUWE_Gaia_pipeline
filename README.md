@@ -1,5 +1,7 @@
 # Team Gaia: RUWE-based Planetary Companion Inference Pipeline
 
+**Author:** Ashi Poorey
+
 This workflow models RUWE (Renormalised Unit Weight Error) using Gaia DR3 data to infer the parameters of planetary companions. The pipeline is modular, allowing for clear separation of concerns and easy collaboration.
 
 ---
