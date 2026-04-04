@@ -1,4 +1,4 @@
-# Team Gaia: RUWE-based Planetary Companion Inference Pipeline
+# RUWE-Based Pipeline for Inferring Planetary Companions from Gaia DR3
 
 **Author:** Ashi Poorey
 
